@@ -1,9 +1,12 @@
 game-of-life
 ============
 
-A Curses implementation of Conway's 'Game of Life'. Edit the 'pattern' list of coordinates in source to make new shapes.
+A Curses implementation of Conway's 'Game of Life'. Use ./generate to make a random source file the size of your terminal.
 
+Usage:
+	[./generate]
+	./conway [input]
 
 Wishlist:
 
-* Allow reading from file
+* Allow reading from file [DONE]
